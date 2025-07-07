@@ -31,7 +31,7 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 
 - Criar um diagrama UML que represente as funcionalidades descritas acima.
 - Implementar as classes e interfaces correspondentes em Java (Opcional).
-
+<img width="770" height="283" alt="Image" src="https://github.com/user-attachments/assets/3143dd15-d220-4912-b6bc-e562bbf4da99" />
 
 ## Variáveis de Ambiente
 
